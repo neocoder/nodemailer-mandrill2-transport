@@ -6,9 +6,9 @@
   "scripts": {
     "test": "mocha"
   },
-  "_repository": {
-    "type": "",
-    "url": ""
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neocoder/nodemailer-mandrill2-transport.git"
   },
   "keywords": [
     "Mandrill",
@@ -20,9 +20,9 @@
   },
   "license": "MIT",
   "_bugs": {
-    "url": "https://github.com/andris9/nodemailer-smtp-transport/issues"
+    "url": "https://github.com/neocoder/nodemailer-mandrill2-transport/issues"
   },
-  "_homepage": "http://github.com/andris9/nodemailer-smtp-transport",
+  "homepage": "http://github.com/neocoder/nodemailer-mandrill2-transport",
   "dependencies": {
     "mandrill-api": "^1.0.45",
     "needle": "^0.10.0"
